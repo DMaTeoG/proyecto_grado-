@@ -1,0 +1,27 @@
+# Dependencias Node.js
+frontend-nextjs/node_modules/
+frontend-nextjs/.next/
+frontend-nextjs/out/
+
+# Compilación Java y Maven
+backend-monolith/target/
+*.class
+
+# Entornos y Secretos
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+
+# Sistema Operativo
+Thumbs.db
+.DS_Store
