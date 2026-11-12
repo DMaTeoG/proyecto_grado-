@@ -8,6 +8,21 @@
 
 ---
 
+## 🚀 Enlace al Entorno de Gestión de Proyecto (Metodología de Software Colaborativo)
+
+> **Tablero de Proyecto en GitHub Projects (Público):**  
+> 🔗 [https://github.com/users/DMaTeoG/projects/4/views/1](https://github.com/users/DMaTeoG/projects/4/views/1)  
+> **Repositorio Oficial:** [https://github.com/DMaTeoG/proyecto_grado-](https://github.com/DMaTeoG/proyecto_grado-)
+
+### Vistas Implementadas en GitHub Projects:
+1. **📋 Backlog y Sprints (Tabla):** Desglose de las 24 issues organizadas por iteración (Sprint 1 al 5), con Story Points (118 pts totales), prioridad, estimaciones de tiempo y trazabilidad a módulos.
+2. **🎯 Tablero Kanban (Board):** Flujo de trabajo activo (`Backlog` → `In Progress` → `In Review / QA` → `Done`) con límites de trabajo y estados reales.
+3. **⚡ Sprint Activo - S5 (Board):** Monitoreo enfocado del sprint final de pruebas automatizadas, empaquetamiento Docker y cierre documental del trabajo de grado.
+4. **📅 Cronograma / Roadmap:** Línea de tiempo estructurada en 12 semanas (17/08/2026 al 11/11/2026) con hitos (*Milestones*) y fechas límite asociadas.
+5. **🧪 Matriz y Evidencias QA (Tabla):** Registro riguroso de pruebas unitarias y de integración (`mvn test: 7/7 PASS`), commits de trazabilidad y estados de validación de calidad.
+
+---
+
 ## 📋 Descripción del Sistema
 
 **AvícolaTrack** es una plataforma de software empresarial diseñada para estandarizar, automatizar y monitorear en tiempo real las variables zootécnicas y productivas en granjas avícolas comerciales de pequeña y mediana escala. 
