@@ -14,12 +14,16 @@
 > 🔗 [https://github.com/users/DMaTeoG/projects/4/views/1](https://github.com/users/DMaTeoG/projects/4/views/1)  
 > **Repositorio Oficial:** [https://github.com/DMaTeoG/proyecto_grado-](https://github.com/DMaTeoG/proyecto_grado-)
 
-### Vistas Implementadas en GitHub Projects:
-1. **📋 Backlog y Sprints (Tabla):** Desglose de las 24 issues organizadas por iteración (Sprint 1 al 5), con Story Points (118 pts totales), prioridad, estimaciones de tiempo y trazabilidad a módulos.
-2. **🎯 Tablero Kanban (Board):** Flujo de trabajo activo (`Backlog` → `In Progress` → `In Review / QA` → `Done`) con límites de trabajo y estados reales.
-3. **⚡ Sprint Activo - S5 (Board):** Monitoreo enfocado del sprint final de pruebas automatizadas, empaquetamiento Docker y cierre documental del trabajo de grado.
-4. **📅 Cronograma / Roadmap:** Línea de tiempo estructurada en 12 semanas (17/08/2026 al 11/11/2026) con hitos (*Milestones*) y fechas límite asociadas.
-5. **🧪 Matriz y Evidencias QA (Tabla):** Registro riguroso de pruebas unitarias y de integración (`mvn test: 7/7 PASS`), commits de trazabilidad y estados de validación de calidad.
+### Vistas Implementadas en GitHub Projects (9 Vistas Guardadas):
+1. **📋 Backlog y Sprints (Tabla):** Desglose integral de las 24 issues organizadas por iteración (Sprint 1 al 5), con Story Points (118 pts totales), prioridad, estimaciones y trazabilidad a módulos.
+2. **🎯 Tablero Kanban (Board General):** Flujo de trabajo continuo (`Backlog` → `In Progress` → `In Review / QA` → `Done`) con todas las 24 issues.
+3. **⚡ Sprint Activo - S5 (Board):** Monitoreo enfocado del sprint final de pruebas automatizadas, empaquetamiento Docker y cierre documental.
+4. **📅 Cronograma / Roadmap (Gantt):** Línea de tiempo estructurada en 12 semanas (17/08/2026 al 11/11/2026) con hitos (*Milestones*) y fechas límite.
+5. **🧪 Matriz y Evidencias QA (Tabla):** Registro riguroso de pruebas unitarias (`mvn test: 7/7 PASS`), trazabilidad de commits y estados de aseguramiento de calidad.
+6. **🏁 Sprint 1 (Board):** Tablero dedicado para *Arquitectura, BD y Seguridad IAM* (8 issues).
+7. **🐣 Sprint 2 (Board):** Tablero dedicado para *Infraestructura, Multi-Lote y Captura Móvil* (6 issues).
+8. **📊 Sprint 3 (Board):** Tablero dedicado para *Biometrías y Motor Zootécnico* (3 issues).
+9. **🚨 Sprint 4 (Board):** Tablero dedicado para *Motor de Alertas y Dashboard Ejecutivo* (3 issues).
 
 ---
 
